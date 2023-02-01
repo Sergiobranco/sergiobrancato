@@ -85,5 +85,14 @@ $(function() {
                 return false;
             }
     });
+	
+    //scritte che cambiano
+    (function (par) {
+        var words = ["Designer", "Developer", "Marketer", "Studente UniPd" ],
+        i = 0;
+        setInterval(function(){ $('#words').fadeOut(function(){
+            $(this).html(words[(i = (i + 1) % words.length)]).fadeIn();
+          }); }, 1800)
+      })();
     
 });

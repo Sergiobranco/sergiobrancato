@@ -259,6 +259,11 @@ html, body {
     height: 600px;
 }
 
+span#words{
+    font-weight: 900;
+    color: darkred;
+}
+
 /* SITEMAIN
 ================================================== */
 .site-main {

@@ -212,7 +212,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero { 
-    background: url(../img/a.jpg) no-repeat center / cover; 
+    background: url(../img/a.png) no-repeat center / cover; 
     /*background:  linear-gradient(to bottom right, #00416A, #E4E5E6);*/
     height: 100%;
     width: 100%;

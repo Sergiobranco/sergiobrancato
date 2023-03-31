@@ -177,7 +177,7 @@ html, body {
 
 /* Navigation */
 .navbar-nav > li > a {
-    padding: 5px 0;
+    /*padding: 5px 0;*/
     font-weight: 600;
     color: #212121;
     text-transform: uppercase;

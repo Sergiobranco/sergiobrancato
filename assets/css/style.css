@@ -85,7 +85,8 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: linear-gradient(to bottom right, #5251cc,#ac2175,#eb483a);
+
 }
 
 #preloader:before {
@@ -93,9 +94,9 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid white;
-  border-top-color: #000;
-  border-bottom-color: blue;
+  border: 6px solid #5251cc;
+  border-top-color:  #ac2175 ;
+  border-bottom-color: #ac2175;
   border-radius: 50%;
   width: 60px;
   height: 60px;

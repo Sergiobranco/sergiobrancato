@@ -372,17 +372,17 @@ background: linear-gradient(to right, #360033, #0b8793);
 
 @media (max-width: 992px) {
   #hero {
-    text-align: center;
+    text-align: left;
   }
 
   #hero h1 {
-    font-size: 32px;
-    line-height: 36px;
+    font-size: 75px;
+    line-height: 66px;
   }
 
   #hero p {
     margin-top: 10px;
-    font-size: 20px;
+    font-size: 30px;
     line-height: 24px;
   }
 }

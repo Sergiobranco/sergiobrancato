@@ -506,7 +506,7 @@ section {
 }
 
 .btn-cv:after{
-  content: '>>';
+  content: '';
   position: absolute;
   z-index: -1;
   -webkit-transition: all 0.3s;
